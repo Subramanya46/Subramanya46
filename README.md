@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Subramanya46
-- 👀 I’m interested in Web and Android Developement
-- 🌱 I’m currently learning React native
+- 👋 Hi, I’m @Subramanya KS
+- 👀 I’m interested in Web Applications and Android Developement
+- 🌱 I’m currently learning Dotnet Core, React, React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Contact Number : +91-7204853275
